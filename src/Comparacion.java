@@ -9,3 +9,5 @@ public class Comparacion {
         System.out.println("¿numero1 es menor que numero2? " + (numero1 < numero2));
         System.out.println("¿numero1 es mayor o igual que numero2? " + (numero1 >= numero2));
         System.out.println("¿numero1 es menor o igual que numero2? " + (numero1 <= numero2));
+    }
+}
