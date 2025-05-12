@@ -1,3 +1,5 @@
+package Unidad1;
+
 public class Contador {
     public static void main(String[] args) {
         int contador = 0;

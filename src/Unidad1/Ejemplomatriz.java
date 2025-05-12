@@ -1,3 +1,5 @@
+package Unidad1;
+
 public class Ejemplomatriz {
     public static void main(String[] args) {
         // Declarar e inicializar una matriz de 3x3

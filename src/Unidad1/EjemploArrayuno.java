@@ -1,3 +1,5 @@
+package Unidad1;
+
 public class EjemploArrayuno {
     public static void main(String[] args) {
         // Declarar e inicializar el array
